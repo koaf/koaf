@@ -4,14 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;High+School+Developer+%F0%9F%8E%93;Always+learning+new+things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-> 🎓 高校生エンジニア｜好奇心のままにコードを書いています。
+> 🎓 High school developer — writing code out of pure curiosity.
 
 ---
 
 ## 📬 Contact
 
-| 方法 | 情報 |
-|------|------|
+| | |
+|---|---|
 | 📧 Email | [nishi.taichi1001@gmail.com](mailto:nishi.taichi1001@gmail.com) |
 | 💬 Discord | `koluli` |
 
@@ -27,7 +27,7 @@
 | 🐹 Go | Backend services, CLI tools |
 | 🦀 Rust | Systems programming, performance |
 | ⚙️ C | Low-level / embedded |
-| ☕ Java | 学習中・基礎文法 |
+| ☕ Java | Learning / basics |
 | 🤖 Discord.py | Bot development |
 
 ---
@@ -35,25 +35,31 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=koaf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="koaf's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=koaf&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=koaf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="koaf's GitHub Stats" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=koaf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koaf&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=koaf&theme=tokyonight" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=koaf&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
 ---
 
 ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=koaf&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=koaf&theme=nord&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
+</p>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![koaf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=koaf&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=koaf&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
