@@ -9,7 +9,7 @@
 | Service | ID |
 |---|---|
 | 💬 Discord | `koluli` |
-| 🪪　LinkedIn |Nishikawa Taichiro[https://www.linkedin.com/in/taichiro-nishikawa-a58aab440?utm_source=share_via&utm_content=profile］|
+| 🪪　LinkedIn |[Nishikawa Taichiro](https://www.linkedin.com/in/taichiro-nishikawa-a58aab440?utm_source=share_via&utm_content=profile]|
 
 ---
 
